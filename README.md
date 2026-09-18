@@ -28,7 +28,7 @@ Me chamo Leonardo Cesar Fernandes, tenho 32 anos e sou natural de São Paulo, co
   <img 
     align="right" 
     alt="Leo-tech"
-    width="160"
+    width="150"
     src="https://github.com/user-attachments/assets/6cde88fc-5744-4744-8df9-efd650588b43" />
 </div>
 
@@ -40,7 +40,7 @@ Me chamo Leonardo Cesar Fernandes, tenho 32 anos e sou natural de São Paulo, co
     align="left" 
     alt="Java" 
     title="JAVA"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -56,7 +56,7 @@ Me chamo Leonardo Cesar Fernandes, tenho 32 anos e sou natural de São Paulo, co
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Leonardo-Cesar-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -64,5 +64,5 @@ Me chamo Leonardo Cesar Fernandes, tenho 32 anos e sou natural de São Paulo, co
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Cesar-Fernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
